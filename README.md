@@ -13,7 +13,7 @@ link: [my face book](https://)
 | Tables        | name          |  link |
 | ------------- |:-------------:| -----:|
 | file one      | markdown| * [markdown](https://daniaalrababa9.github.io/Learning-Journal-/markdown)|
-| file two      | terminals| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
-| file three      | learn-about-git | * [learn-about-git](https://daniaalrababa9.github.io/LearningJournal/learn-about-git) |
-| file four      |git intro| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
-| file five      | html| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
+| file two      | terminals| * [terminals](https://daniaalrababa9.github.io/Learning-Journal-/terminals)|
+| file three      | learn-about-git | * [learn-about-git](https://daniaalrababa9.github.io/Learning-Journal-/learn-about-git) |
+| file four      |git intro| * [git intro](https://daniaalrababa9.github.io/LearningJournal/git intro)|
+| file five      | html| * [html](https://daniaalrababa9.github.io/LearningJournal/html)|
