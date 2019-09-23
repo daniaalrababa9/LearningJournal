@@ -1,10 +1,19 @@
-# welcome to my page about my journey in building a programme
+**hello**
+# my name is *dania* and iam electrical engineer
+## Welcome to midest growth 
+To be midest growth 
+1. being positive
+1. faced the obstacle 
+1. remember always no one start from top.
+* you should to face the Criticism and learn from it 
+#dont be afraid from asking help
+link: [my face book](https://)
+![](https://www.innerdrive.co.uk/wp-content/uploads/2017/05/How-to-develop-a-growth-mindset-.png)
 
-## The links for the files
-* [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)
-* [learn-about-git](https://daniaalrababa9.github.io/LearningJournal/learn-about-git)
-
-| Tables        | name          |  about |
+| Tables        | name          |  link |
 | ------------- |:-------------:| -----:|
-| file one      | terminals| termins and commands |
-| file two      | learn-about-git |  git |
+| file one      | marketdown| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
+| file two      | terminals| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
+| file three      | learn-about-git | * [learn-about-git](https://daniaalrababa9.github.io/LearningJournal/learn-about-git) |
+| file four      |git intro| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
+| file five      | html| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
