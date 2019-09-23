@@ -12,7 +12,7 @@ link: [my face book](https://)
 
 | Tables        | name          |  link |
 | ------------- |:-------------:| -----:|
-| file one      | marketdown| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
+| file one      | markdown| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
 | file two      | terminals| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
 | file three      | learn-about-git | * [learn-about-git](https://daniaalrababa9.github.io/LearningJournal/learn-about-git) |
 | file four      |git intro| * [terminals](https://daniaalrababa9.github.io/LearningJournal/terminals)|
