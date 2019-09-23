@@ -15,5 +15,5 @@ link: [my face book](https://)
 | file one      | markdown| * [markdown](https://daniaalrababa9.github.io/Learning-Journal-/markdown)|
 | file two      | terminals| * [terminals](https://daniaalrababa9.github.io/Learning-Journal-/terminals)|
 | file three      | learn-about-git | * [learn-about-git](https://daniaalrababa9.github.io/Learning-Journal-/learn-about-git) |
-| file four      |git intro| * [git intro](https://daniaalrababa9.github.io/Learning-Journal-/git intro)|
+| file four      |git intro| * [git intro](https://daniaalrababa9.github.io/Learning-Journal-/git%20intro)|
 | file five      | html| * [html](https://daniaalrababa9.github.io/Learning-Journal-/html)|
