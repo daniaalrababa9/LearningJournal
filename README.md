@@ -2,6 +2,6 @@
 
 | Tables        | pages name   | number |
 | ------------- |:-------------:| -----:|
-| information about terminals      | learningjournal| first file |
+| information about terminals      | terminals| first file |
 | information about git    | learn-about-git    |   second file |
 | -| -    |    - |
