@@ -17,5 +17,5 @@ link: [my face book](https://)
 | file three      | learn-about-git | * [learn-about-git](https://daniaalrababa9.github.io/Learning-Journal-/learn-about-git) |
 | file four      |git intro| * [git intro](https://daniaalrababa9.github.io/Learning-Journal-/gitintro)|
 | file five      | html| * [html](https://daniaalrababa9.github.io/Learning-Journal-/html)|
-| file five      | css| * [html](https://daniaalrababa9.github.io/Learning-Journal-/css)|
+| file five      | css| * [css](https://daniaalrababa9.github.io/Learning-Journal-/css)|
 
