@@ -10,7 +10,7 @@ To be midest growth
 link: [my face book](https://)
 ![](https://www.innerdrive.co.uk/wp-content/uploads/2017/05/How-to-develop-a-growth-mindset-.png)
 
-| Tables        | name          |  link |
+| files        | name of files  |  link |
 | ------------- |:-------------:| -----:|
 | file one      | markdown| * [markdown](https://daniaalrababa9.github.io/Learning-Journal-/markdown)|
 | file two      | terminals| * [terminals](https://daniaalrababa9.github.io/Learning-Journal-/terminals)|
@@ -18,4 +18,6 @@ link: [my face book](https://)
 | file four      |git intro| * [git intro](https://daniaalrababa9.github.io/Learning-Journal-/gitintro)|
 | file five      | html| * [html](https://daniaalrababa9.github.io/Learning-Journal-/html)|
 | file six     | css| * [css](https://daniaalrababa9.github.io/Learning-Journal-/css)|
+| file seven    | js| * [js](https://daniaalrababa9.github.io/Learning-Journal-/js)|
+
 
