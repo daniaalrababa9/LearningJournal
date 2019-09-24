@@ -1,4 +1,4 @@
-# what is git ?
+# about git ...
 Snapshots
 Git is a DVCS that stores data in a file system made up of snapshots.
 Each time you save a changed version of your project — called
