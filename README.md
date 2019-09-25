@@ -19,6 +19,6 @@ link: [my face book](https://)
 | file five      | html| * [html](https://daniaalrababa9.github.io/Learning-Journal-/html)|
 | file six     | css| * [css](https://daniaalrababa9.github.io/Learning-Journal-/css)|
 | file seven    | js| * [js](https://daniaalrababa9.github.io/Learning-Journal-/js)|
-| file eight    | javascribt| * [javascrbt](https://daniaalrababa9.github.io/Learning-Journal-/javascribt)|
+| file eight    | javascribt| * [javascribt](https://daniaalrababa9.github.io/Learning-Journal-/javascribt)|
 
 
